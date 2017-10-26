@@ -2,6 +2,9 @@
 
 > Some instructions for me to creating vuetify apps
 
+## Creating the project
+vue init vuetifyjs/webpack-advanced your-projects-name
+
 ## Build Setup
 
 ``` bash
